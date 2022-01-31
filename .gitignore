@@ -2,6 +2,8 @@
 **/*.rs.bk
 Cargo.lock
 bin/
+.bin
+www/.gitignore
 pkg/
 wasm-pack.log
 **/node_modules
